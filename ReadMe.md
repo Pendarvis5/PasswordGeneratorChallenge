@@ -10,6 +10,8 @@ To provide greater security
 
 
 ## Visuals
+<img width="535" alt="image" src="https://user-images.githubusercontent.com/118090944/211642515-a4384f85-cef2-43a9-820b-554eddad00e9.png">
+
 
 ## Useage
 
@@ -29,7 +31,7 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ## Deployed link
-
+https://pendarvis5.github.io/PasswordGeneratorChallenge/
 
 ## Contributions
   Open

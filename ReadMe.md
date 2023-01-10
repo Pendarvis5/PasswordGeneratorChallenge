@@ -1,15 +1,17 @@
-#Challenge 3: Password Generator
+# Challenge 3: Password Generator
 
 The challenge is to create a random password generator.
 
-#About the project
+# Task
 
 Generate A password for an Employee with access to sensitive data 
 I want the app to randomly generate a password that meets programmed criteria
 To provide greater security
 
 
-# Useage
+## Visuals
+
+## Useage
 
 When the generate password button is clicked
 Then the user will e presented with a series of prompts
@@ -25,3 +27,9 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+
+## Deployed link
+
+
+## Contributions
+  Open
